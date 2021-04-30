@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/19 18:36:30.000.036,=rtl.dcp</Transaction>
+    <Transaction>2021/03/25 20:31:26.000.805,=rtl.dcp</Transaction>
+    <Transaction>2021/04/29 22:08:00.000.658,=rtl.dcp</Transaction>
+    <Transaction>2021/04/29 22:08:37.000.588,C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\GoogleAnalytics.dproj=C:\Users\joao.becker\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/04/29 22:08:44.000.878,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Controller\Google.Controller.Analytics.Interfaces.pas</Transaction>
+    <Transaction>2021/04/29 22:08:46.000.082,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Controller\Google.Controller.Analytics.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.315,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.Invoker.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.346,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.PageView.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.268,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.Factory.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.143,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.AppInfo.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.284,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.Interfaces.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.206,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.Exception.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.174,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.Event.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.409,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.Session.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.377,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.ScreenView.pas</Transaction>
+    <Transaction>2021/04/29 22:08:53.000.237,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Model\Google.Model.Analytics.Factory.Interfaces.pas</Transaction>
+    <Transaction>2021/04/29 22:09:05.000.433,=vcl.dcp</Transaction>
+    <Transaction>2021/04/29 22:14:10.000.387,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Controller\GoogleAnalyticsGlobal.pas</Transaction>
+    <Transaction>2021/04/29 22:14:10.000.376,=C:\Users\joao.becker\Desktop\Package-GoogleAnalytics\Controller\GoogleAnalyticsExports.pas</Transaction>
+  </Transactions>
+</BorlandProject>
