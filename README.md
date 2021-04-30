@@ -2,7 +2,7 @@
 
 ![Screenshot](/Image/ga.png)
 
-Creating to be consumed by Delphi applications
+Class created to facilitate the integration of Delphi with Google Analytics  and to be consumed by Delphi applications by BPL
 
 The movement of creating this package comes from the need to be able to consume this wonderful project
 of Google Analytics data collection in any version of delphi.
