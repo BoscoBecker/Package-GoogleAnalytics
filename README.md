@@ -1,6 +1,6 @@
 # Package developed in Delphi to collect Google Analytics
 
-![Screenshot](/image/ga.png)
+![Screenshot](/Image/ga.png)
 
 Creating to be consumed by Delphi applications
 
