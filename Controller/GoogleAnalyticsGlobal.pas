@@ -13,7 +13,7 @@ uses
   Google.Controller.Analytics;
 
 const
-  GooglePropertyID =  'UA-133308546-1';
+  GooglePropertyID =  'YOUR-UA-HERE';
   AppName = 'Empresa';
   AppLicense = 'Comercial';
   AppEdition = 'ERP';
