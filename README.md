@@ -11,5 +11,5 @@ Developed in version 10.4 (sydney)
 
 Fork of https://github.com/maiconsi/DGoogleAnalytics - Nice Work
 
-Make with Boscobecker 
+Make with ❤ Boscobecker 
 
